@@ -49,6 +49,10 @@ There are 90398 across 7 job roles with retiring employees that will be impact i
 ### Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 No, this company does not have enough qualified, retirement- ready employees in the departments to mentor the next generation of employees. There are only  1.7% of mentors availability i.e. only 1549 mentors available across the departments to cover trainings for 90398 job openeings that will be needed in coming years which is a huge gap of intellectual loss for Pewlett hackard.
 
+Company can look into the employees tables to see employees not retirement eligibility (above birth date 1955) then look into the Senior Titles and also get some of those to start mentoring to speed up the training process.
+[non_retiring.png]
+(https://github.com/archinarula/Pewlett-Hackard-Analysis/blob/main/non_retiring.png)
+
 
 
 
