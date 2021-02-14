@@ -10,6 +10,7 @@ The purpose of this data analysis is to identify the retiring employees by title
 
 - Deliverable 1: The Number of Retiring Employees by Title
 Queries: https://github.com/archinarula/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_Challenge.sql
+
 3 Data exports csv files for reference: 
 Retirement_titles.csv- https://github.com/archinarula/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv
 Unique_titles.csv- https://github.com/archinarula/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv
@@ -17,6 +18,7 @@ Retiring_titles.csv- https://github.com/archinarula/Pewlett-Hackard-Analysis/blo
 
 - Deliverable 2: The Employees Eligible for the Mentorship Program
 Queries: https://github.com/archinarula/Pewlett-Hackard-Analysis/blob/main/Queries/Employee_Database_Challenge.sql
+
 1 Data exports csv files for reference:
 mentorship_eligibility.csv- https://github.com/archinarula/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv
 
@@ -30,14 +32,16 @@ https://github.com/archinarula/Pewlett-Hackard-Analysis/blob/main/README_Written
 1. The retirement_titles.csv shows all the employees eligible for retirement with their tenure served in this company. The unique_titles.csv shows all the employees of retirement age currently with the company and their most recent titles. Reviewing these two outputs shows that this company is going to have 90398 employees retiring soon which is a huge number to fill the openings for and to sustain operations in near future for this company
 
 2. From the retiring_titles.csv we can see that 99.997% retiring employees belong to technical roles with only 2 managers at impact. 
-[! Retiring titles.png] (https://github.com/archinarula/Pewlett-Hackard-Analysis/blob/main/Retiring%20titles.png)
+[! Retiring titles.png] 
+(https://github.com/archinarula/Pewlett-Hackard-Analysis/blob/main/Retiring%20titles.png)
 
 3. From the retiring_titles.csv we can also see that maximum impact in the Senior employees of this company (Senior Engineer and Senior Staff) which means 64% of all retiring employees have senior titles
 
 4. Finally, the mentorship_eligibility.csv shows that company has very few mentors (1549) available as compared to total retiring employees and the roles for which company needs to training people to fill this gap. There are only 45% mentor eligibles for the Senior title mentoring (711/1549) and they have no mentors for Manager training.
-[! mentors.png] (https://github.com/archinarula/Pewlett-Hackard-Analysis/blob/main/mentors.png)
+[! mentors.png] 
+(https://github.com/archinarula/Pewlett-Hackard-Analysis/blob/main/mentors.png)
 
-## Summary: Provide high-level responses to the following questions, then provide two additional queries or tables that may provide more insight into the upcoming "silver tsunami."
+## Summary: 
 
 ### How many roles will need to be filled as the "silver tsunami" begins to make an impact?
 There are 90398 across 7 job roles with retiring employees that will be impact in near future and would need to be filled up
